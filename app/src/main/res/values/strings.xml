@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirstProjectCD</string>
+    <string name="email">Email</string>
+    <string name="send_password">SEND PASSWORD</string>
+    <string name="new_account">NEW ACCOUNT</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="register">REGISTER</string>
+    <string name="address">Address</string>
+    <string name="country">Country</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="gender">Gender</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="logout">LOGOUT</string>
+
+
+</resources>
